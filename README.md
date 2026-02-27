@@ -1,3 +1,6 @@
+![MATLAB](https://img.shields.io/badge/MATLAB-R2025a-orange)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
 # collatzHunter
 MATLAB tool for visualizing and analyzing properties of Collatz sequences
 
